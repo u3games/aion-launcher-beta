@@ -9,7 +9,9 @@ Aion-Launcher is distributed in the hope that it will be useful, but WITHOUT ANY
 You should have received a copy of the GNU General Public License along with this program. If not, see <http://www.gnu.org/licenses>.
 
 Original post: http://u3j-aion.united-extreme.com/community/index.php?topic=760
-U3Games post: http://aion.united-extreme.com/index.php?topic=179.msg590#msg590
+
+Aion JDev post: http://aion.united-extreme.com/index.php?topic=179.msg590#msg590
+
 Ragezone post: http://forum.ragezone.com/f587/aion-u3j-launcher-release-940331
 
 ![alt tag](http://data.nimages.fr/screenlauncher40wo2.png)
